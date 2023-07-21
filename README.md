@@ -1,6 +1,6 @@
 # ProbML-book-solution
 
-《概率机器学习》编程习题代码参考实现，部分习题的代码正逐步完善更新
+《概率机器学习》编程习题代码参考实现，部分习题的代码正逐步完善更新。
 
 <table border=0 cellpadding=0 cellspacing=0 width=419 style='border-collapse:
  collapse;table-layout:fixed;width:314pt'>
