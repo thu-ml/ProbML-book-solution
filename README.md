@@ -102,12 +102,7 @@
   target="_parent">14.7.9</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td rowspan=2 height=40 class=xl7230491 style='border-bottom:.5pt solid black;
-  height:30.0pt;border-top:none'>&#31532;17&#31456;
-  &#24378;&#21270;&#23398;&#20064;</td>
-  <td class=xl7030491>17.6.4</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl7030491 style='height:15.0pt'>17.6.9</td>
- </tr>
+  <td height=20 class=xl6930491 style='height:15.0pt'><a
+  href="https://github.com/rubbybbs/ProbML-book-solution/blob/main/ch17/14.6.9.ipynb"
+  target="_parent">17.6.9</a></td> </tr>
 </table>
