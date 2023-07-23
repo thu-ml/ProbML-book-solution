@@ -106,7 +106,7 @@
   height:30.0pt;border-top:none'>&#31532;17&#31456;
   &#24378;&#21270;&#23398;&#20064;</td>
   <td height=20 class=xl7230491 style='height:15.0pt'><a
-  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch17/14.6.9.ipynb"
+  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch17/17.6.9.ipynb"
   target="_parent">17.6.9</a></td> 
   
   </tr>
