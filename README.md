@@ -40,17 +40,23 @@
   target="_parent">5.6.5</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl7030491 style='height:15.0pt'>5.6.6</td>
+  <td height=20 class=xl7030491 style='height:15.0pt'><a
+  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch05/5.6.6.py"
+  target="_parent">5.6.6</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl6730491 style='height:15.0pt'>&#31532;6&#31456;
   &#28145;&#24230;&#31070;&#32463;&#32593;&#32476;</td>
-  <td class=xl7030491>6.5.6</td>
+  <td class=xl7030491><a
+  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch06/6.5.6.py"
+  target="_parent">6.5.6</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl6730491 style='height:15.0pt'>&#31532;7&#31456;
   &#25903;&#25345;&#21521;&#37327;&#26426;&#19982;&#26680;&#26041;&#27861;</td>
-  <td class=xl7030491>7.7.7</td>
+  <td class=xl7030491><a
+  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch07/7.7.7.py"
+  target="_parent">7.7.7</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl6730491 style='height:15.0pt'>&#31532;8&#31456;
