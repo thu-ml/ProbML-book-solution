@@ -35,7 +35,9 @@
   <td rowspan=2 height=40 class=xl7230491 style='border-bottom:.5pt solid black;
   height:30.0pt;border-top:none'>&#31532;5&#31456;
   &#23545;&#25968;&#20960;&#29575;&#22238;&#24402;</td>
-  <td class=xl7030491>5.6.5</td>
+  <td class=xl7030491><a
+  href="https://github.com/thu-ml/ProbML-book-solution/blob/main/ch05/5.6.5.py"
+  target="_parent">5.6.5</a></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl7030491 style='height:15.0pt'>5.6.6</td>
